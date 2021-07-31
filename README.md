@@ -1,4 +1,6 @@
-# Como Rodar o projeto em ambiente local:
+# Task List API com Spring Boot
+
+Como Rodar o projeto em ambiente local:
 
 1 - Clonar o repositório.
 
