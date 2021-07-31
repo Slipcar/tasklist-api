@@ -2,7 +2,7 @@
 
 1 - Clonar o repositório.
 
-2 - criar um banco de dados PostgreSQL 
+2 - Criar um banco de dados PostgreSQL 
 
 3 - Editar o arquivo application.properties de acordo com o banco criado ou utilizar o que já está no arquivo, que se encontra dentro do diretório resources.
 
